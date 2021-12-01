@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-08-10 17:39+0530\n"
+"PO-Revision-Date: 2018-08-10 17:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: abc-pricing-table.php:30 add-new-pricing.php:77 add-new-pricing.php:426
+msgid "Pricing"
+msgstr "प्राइसिंग़"
+
+#: abc-pricing-table.php:72
+msgid "Our Theme"
+msgstr "हमारी थीम"
+
+#: abc-pricing-table.php:73
+msgid "Our Plugins"
+msgstr "हमारे प्लगइन्स"
+
+#: abc-pricing-table.php:78 abc-pricing-table.php:79 abc-pricing-table.php:80
+#: abc-pricing-table.php:81 abc-pricing-table.php:95 add-new-pricing.php:35
+msgid "Pricing Table"
+msgstr "प्राइसिंग़ टेबल"
+
+#: abc-pricing-table.php:82 abc-pricing-table.php:83
+msgid "Add Pricing Table"
+msgstr "प्राइसिंग़ टेबल जोड़ें"
+
+#: abc-pricing-table.php:84
+msgid "New Pricing Table"
+msgstr "नई प्राइसिंग़ टेबल"
+
+#: abc-pricing-table.php:85
+msgid "Edit Pricing Table"
+msgstr "प्राइसिंग़ टेबल संपादित करें"
+
+#: abc-pricing-table.php:86
+msgid "View Pricing Table"
+msgstr "प्राइसिंग़ टेबल देखें"
+
+#: abc-pricing-table.php:87
+msgid "All Pricing Table"
+msgstr "सभी प्राइसिंग़ टेबल"
+
+#: abc-pricing-table.php:88
+msgid "Search Pricing Table"
+msgstr "प्राइसिंग़ टेबल खोजें"
+
+#: abc-pricing-table.php:89
+msgid "Parent Pricing Table"
+msgstr "अभिभावक प्राइसिंग़ टेबल"
+
+#: abc-pricing-table.php:90
+msgid "No Pricing Table"
+msgstr "कोई प्राइसिंग़ टेबल नहीं"
+
+#: abc-pricing-table.php:91
+msgid "No Pricing Table found in Trash"
+msgstr "ट्रैश में कोई प्राइसिंग़ टेबल नहीं मिली"
+
+#: abc-pricing-table.php:96
+msgid "Description"
+msgstr "विवरण"
+
+#: abc-pricing-table.php:115
+msgid "Add pricing table"
+msgstr "प्राइसिंग़ टेबल जोड़ें"
+
+#: abc-pricing-table.php:116
+msgid "Upgrade pricing table Pro"
+msgstr "प्राइसिंग़ टेबल प्रो अपग्रेड करें"
+
+#: abc-pricing-table.php:117
+msgid "Rate Our Plugin"
+msgstr "हमारे प्लगइन को रेट करें"
+
+#: add-new-pricing.php:36
+msgid "Settings"
+msgstr "व्यवस्था"
+
+#: add-new-pricing.php:42
+msgid "CLICK ON"
+msgstr "क्लिक करें"
+
+#: add-new-pricing.php:42
+msgid "ADD NEW BUTTON"
+msgstr "नया बटन जोड़ें"
+
+#: add-new-pricing.php:42
+msgid "TO ADD NEW TABLE"
+msgstr "नया टेबल जोड़ने के लिए"
+
+#: add-new-pricing.php:43
+msgid "ADD COLUMN"
+msgstr "स्तंभ जोड़ें"
+
+#: add-new-pricing.php:44
+msgid "GET SHORTCODE"
+msgstr "शॉर्टकोड प्राप्त करें"
+
+#: add-new-pricing.php:67 add-new-pricing.php:416
+msgid "Yes"
+msgstr "हाँ"
+
+#: add-new-pricing.php:69 add-new-pricing.php:418
+msgid "No"
+msgstr "नहीं"
+
+#: add-new-pricing.php:72 add-new-pricing.php:421
+msgid "Name"
+msgstr "नाम"
+
+#: add-new-pricing.php:80 add-new-pricing.php:429
+msgid "Pricing Plan"
+msgstr "प्राइसिंग़"
+
+#: add-new-pricing.php:83 add-new-pricing.php:432
+msgid "Pricing Features"
+msgstr "प्राइसिंग़ टेबल"
+
+#: add-new-pricing.php:85 add-new-pricing.php:435
+msgid "Button Text"
+msgstr "बटन पाठ रंग"
+
+#: add-new-pricing.php:88 add-new-pricing.php:438
+msgid "Button Url"
+msgstr "बटन रंग"
+
+#: add-new-pricing.php:107
+msgid "Template & Icon Settings"
+msgstr "टेम्पलेट और आइकन व्यवस्था"
+
+#: add-new-pricing.php:114
+msgid "1. Select Pricing Template Design"
+msgstr "1. प्राइसिंग़ टेबल टेम्पलेट डिजाइन का चयन करें"
+
+#: add-new-pricing.php:118
+msgid "Templet 1"
+msgstr "1 टेम्पलेट्"
+
+#: add-new-pricing.php:119
+msgid "Templet 2"
+msgstr "2 टेम्पलेट्"
+
+#: add-new-pricing.php:120
+msgid "Templet 3"
+msgstr "3 टेम्पलेट्"
+
+#: add-new-pricing.php:121
+msgid "Templet 4"
+msgstr "4 टेम्पलेट्"
+
+#: add-new-pricing.php:133
+msgid "3. Select Icon"
+msgstr "3. आइकन का चयन करें"
+
+#: add-new-pricing.php:156
+msgid "Columns Settings"
+msgstr "स्तंभ व्यवस्था"
+
+#: add-new-pricing.php:162
+msgid "Pricing Columns Per Row"
+msgstr "प्रति पंक्ति प्राइसिंग़ टेबल कॉलम"
+
+#: add-new-pricing.php:166
+msgid "Columns 4"
+msgstr "स्तंभ 4"
+
+#: add-new-pricing.php:167
+msgid "Columns 3"
+msgstr "स्तंभ 3"
+
+#: add-new-pricing.php:168
+msgid "Columns 2"
+msgstr "स्तंभ 2"
+
+#: add-new-pricing.php:169
+msgid "Columns 1"
+msgstr "स्तंभ 1"
+
+#: add-new-pricing.php:180
+msgid "Color Settings"
+msgstr "रंग व्यवस्था"
+
+#: add-new-pricing.php:187 add-new-pricing.php:232
+msgid "Heading Text Color"
+msgstr "शीर्षक पाठ रंग"
+
+#: add-new-pricing.php:192 add-new-pricing.php:237
+msgid "Background Color"
+msgstr "पीछे का रंग"
+
+#: add-new-pricing.php:197 add-new-pricing.php:242
+msgid "Background Hover Color"
+msgstr "पृष्ठभूमि होवर रंग"
+
+#: add-new-pricing.php:203 add-new-pricing.php:247
+msgid "Button Color"
+msgstr "बटन रंग"
+
+#: add-new-pricing.php:208 add-new-pricing.php:252
+msgid "Button Text Color"
+msgstr "बटन पाठ रंग"
+
+#: add-new-pricing.php:213 add-new-pricing.php:257
+msgid "Button Hover Color"
+msgstr "बटन होवर रंग"
+
+#: add-new-pricing.php:224
+msgid "Featured Settings"
+msgstr "फीचर्ड व्यवस्था"
+
+#: add-new-pricing.php:269
+msgid "Custome Css"
+msgstr "कस्टम सीएसएस"
+
+#: add-new-pricing.php:291
+msgid "Copy the shortcode below and paste it wherever you want your pricing table to appear"
+msgstr ""
+"नीचे दिए गए शॉर्टकोड की प्रतिलिपि बनाएं और जहां भी आप अपनी प्राइसिंग़ टेबल  दिखाना चाहते हैं उसे पेस्ट करें"
+
+#: add-new-pricing.php:297
+msgid "Close"
+msgstr "बंद करे"
+
+#. translators: 1: The rating
+#: featured-plugins/featured-plugins.php:93
+#, php-format
+msgid "%s rating"
+msgstr ""
+
+#: featured-plugins/featured-plugins.php:108
+msgid "Get More Free WordPress Plugin From A WP Life"
+msgstr "A WP Life से अधिक मुफ्त वर्डप्रेस प्लगइन प्राप्त करें"
+
+#. translators: 1: Plugin name and version.
+#: featured-plugins/featured-plugins.php:154
+msgid "More Details"
+msgstr "अधिक जानकारी"
+
+#. translators: 1: Plugin name and version.
+#: featured-plugins/featured-plugins.php:165
+msgid "Install Now"
+msgstr "अभी स्थापित करें"
+
+#. translators: 1: Plugin name and version
+#: featured-plugins/featured-plugins.php:172
+msgid "Update Now"
+msgstr "अभी नवीनतम करें"
+
+#: featured-plugins/featured-plugins.php:215
+msgid "By"
+msgstr "द्वारा"
+
+#: featured-plugins/featured-plugins.php:236
+msgid "Last Updated:"
+msgstr "आखरी अपडेट:"

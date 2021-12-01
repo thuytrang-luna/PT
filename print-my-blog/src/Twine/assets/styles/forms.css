@@ -1,0 +1,17 @@
+details.twine-details{
+    margin:1em;
+}
+summary.twine-summary{
+    cursor:pointer;
+}
+.twine-radio-help{
+    margin-bottom:20px;
+    display:block;
+}
+.twine-text-input[type=color]{
+    width:40px;
+}
+.twine-form .error{
+    color:red;
+    font-weight:normal;
+}
